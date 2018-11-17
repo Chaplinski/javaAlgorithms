@@ -90,7 +90,7 @@ public class ArrayStructures2 {
         return indexesWhereValueAppears;
     }
 
-    
+
 
     public static void main(String[] args){
 
